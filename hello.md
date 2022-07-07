@@ -1,6 +1,6 @@
 # Greetings
 
 - English: Good morning!
-- Korean: 안녕하세요
+- Korean: 안녕!
 - Spanish: Hola
 
